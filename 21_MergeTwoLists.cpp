@@ -1,5 +1,5 @@
 /*
-2. Add two numbers
+21. Merge two lists  
 */
 
 #include <iostream>
