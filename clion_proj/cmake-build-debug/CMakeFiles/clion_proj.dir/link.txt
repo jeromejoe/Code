@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/clion_proj.dir/main.cpp.o CMakeFiles/clion_proj.dir/5_longestPalindrome.cpp.o  -o clion_proj 
