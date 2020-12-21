@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/5lp.dir/5_longestPalindrome.cpp.o  -o 5lp 
